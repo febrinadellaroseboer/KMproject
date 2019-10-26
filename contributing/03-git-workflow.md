@@ -83,7 +83,6 @@ The result is as follows:
 origin    https://github.com/{your-username}/{your-fork}.git (fetch)
 origin    https://github.com/{your-username}/{your-fork}.git (push)
 upstream  https://github.com/{original-owner}/{original-repository}.git (fetch)
-upstream  https://github.com/{original-owner}/{original-repository}.git (push)
 ```
 4. Run the `git fetch --all` command to fetch all remote branches.
 
