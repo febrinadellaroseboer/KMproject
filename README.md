@@ -14,7 +14,6 @@ Go directly to the section that you are most interested in:
         - [Process](#process)
         - [Issues](#issues)
         - [Collaboration](#collaboration)
-    - [Guidelines and templates](#guidelines-and-templates)
     - [Security](#security)
 
 ## Product information
